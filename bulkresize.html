@@ -6,9 +6,11 @@ function getUrlVars() {
   });
   return vars;
 }
+  
+var requestVars = getUrlVars();
 
-var bulkresizew = getUrlVars()["bulkresizew"];
-var bulkresizeq = getUrlVars()["bulkresizeq"];
+var bulkresizew = requestVars["bulkresizew"];
+var bulkresizeq = requestVars["bulkresizeq"];
 </script>
 
 <p style="font-family: 'Helvetica Neue', Helvetica, Arial, Tahoma, sans-serif; font-size:12px; color: #444;margin:0;">This tool will resize and compress your images and deliver them as a zip archive ready for upload to your website.</p>
