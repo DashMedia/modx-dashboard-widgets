@@ -6,7 +6,7 @@ Each widget embeds an iframe that loads static HTML hosted in this repo using Gi
 
 ## Bulk Resize Widget
 
-A client size image resize and optimisation tool using https://bulkresizephotos.com/embed with configurable options tied to MODX system settings.
+A javascript based image resize and optimisation widget powered by https://bulkresizephotos.com/embed with configurable options tied to MODX system settings.
 
 ### Additional System Settings Required:
 
