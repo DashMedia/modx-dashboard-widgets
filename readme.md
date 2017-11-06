@@ -10,9 +10,9 @@ A javascript based image resize and optimisation widget powered by https://bulkr
 
 ### Additional System Settings Required:
 
-`[[++bulkresizeq]]` The quality to use for JPEG compressions.
+`[[++bulkresizeq]] = 0.80` The quality to use for JPEG compressions.
 
-`[[++bulkresizew]]` The pixel length of the longest side of the output image.
+`[[++bulkresizew]] = 1600` The pixel length of the longest side of the output image.
 
 ### Widget Content
 
