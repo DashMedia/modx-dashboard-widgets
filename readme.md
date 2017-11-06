@@ -20,4 +20,4 @@ A client size image resize and optimisation tool using https://bulkresizephotos.
 
 ### Screenshot
 
-![Screenshot](https://dashmedia.github.io/modx-dashboard-widgets/bulkresize.png)
+![Screenshot](bulkresize.png)
